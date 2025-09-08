@@ -6,6 +6,8 @@
 
 by Peter Kahl, 6 September 2025
 
+DOI: 10.13140/RG.2.2.30632.43528
+
 ![alt text](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/precipice.jpg?raw=true)
 
 ### Abstract
@@ -38,7 +40,7 @@ Cognitive dissonance, Epistemic clientelism, Fiduciary-epistemic governance, Bou
 ### Cite this work:
 
 ```
-Peter Kahl, Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and Fiduciary Scaffolding (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event>
+Peter Kahl, Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and Fiduciary Scaffolding (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event> DOI: 10.13140/RG.2.2.30632.43528
 ```
 
 ### Publisher & Licence
