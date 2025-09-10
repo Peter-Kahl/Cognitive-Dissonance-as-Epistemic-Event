@@ -1,8 +1,8 @@
 # Cognitive Dissonance as Epistemic Event
 
-### Clientelism, Bounded Freedom, and Fiduciary Scaffolding
+### Clientelism, Bounded Freedom, and the Epistemic Architecture of Fear
 
-#### _At the edge of knowledge, where unease is felt most keenly, freedom begins._
+#### _At the edge of knowledge, unease is the signal of freedom — and the shadow of fear._
 
 by Peter Kahl, 6 September 2025
 
@@ -35,7 +35,7 @@ cognitive dissonance, epistemic clientelism, epistemic injustice, epistemic plur
 ### Cite this work:
 
 ```
-Kahl, P. (2025). Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and Fiduciary Scaffolding (2nd ed.). Lex et Ratio Ltd 2025. https://doi.org/10.13140/RG.2.2.30632.43528
+Kahl, P. (2025). Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and the Epistemic Architecture of Fear (2nd ed.). Lex et Ratio Ltd 2025. https://doi.org/10.13140/RG.2.2.30632.43528
 ```
 
 ### Publisher & Licence
