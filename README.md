@@ -28,11 +28,11 @@ cognitive dissonance, epistemic clientelism, epistemic injustice, epistemic plur
 
 ---
 
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+### Download Latest Edition
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/master/Kahl_P_Cognitive_Dissonance_as_Epistemic_Event_v2_10-SEP-2025.pdf)
 
-### Cite this work:
+### Cite this work
 
 ```
 Kahl, P. (2025). Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and the Epistemic Architecture of Fear (2nd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/RG.2.2.30632.43528
