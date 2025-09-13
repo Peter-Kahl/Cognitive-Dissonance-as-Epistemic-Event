@@ -2,8 +2,7 @@
 
 ### Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear
 
-#### _At the edge of knowledge, unease signals freedom —\
-yet casts the shadow of fear._
+#### _At the edge of knowledge, unease signals freedom — yet casts the shadow of fear._
 
 by Peter Kahl, 6 September 2025; 3rd edition 13 September 2025
 
