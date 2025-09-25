@@ -2,27 +2,23 @@
 
 ### Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear
 
-#### _At the edge of knowledge, unease signals freedom — yet casts the shadow of fear._
-
 by Peter Kahl, 6 September 2025; 3rd edition 13 September 2025
 
-DOI: 10.13140/RG.2.2.30632.43528
+DOI: 10.13140/RG.2.2.16174.37449
 
 ![alt text](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/precipice.jpg?raw=true)
 
-### Abstract
+## Abstract
 
 This paper reconceptualises cognitive dissonance as an epistemic event: the affective signal of solitude and finitude at the edge of knowledge. Drawing on Schopenhauer, phenomenology, and ontology, it demonstrates that contradiction is not accidental but structural. Anxiety discloses this finitude, while fear accelerates collapse into conformity, obedience, or epistemic clientelism — yielding only illusory freedom. Endurance, by contrast, enables bounded freedom, fragile in isolation but sustainable through fiduciary–epistemic scaffolds: institutional duties of candour, accountability, and openness that dignify dependence. The argument unfolds across psychology, philosophy, and governance, showing how academia, corporations, journalism, politics, and frontier domains such as artificial intelligence, biotechnology, and climate governance require scaffolds that preserve contradiction. The conclusion is stark: survival in conditions of radical uncertainty depends on fiduciary–epistemic scaffolds strong enough to sustain plurality against the temptation of closure.
 
-### Keywords
+## Keywords
 
 cognitive dissonance; epistemic event; epistemic clientelism; epistemic injustice; epistemic pluralism; epistemic agency; epistemic fear; epistemic anxiety; fiduciary duties; fiduciary–epistemic scaffolds; bounded freedom; solitude and finitude; ontology; conformity; obedience; authoritarianism; deliberative democracy; institutional design; artificial intelligence; biotechnology; climate governance; knowledge governance
 
-### Working Paper Status
+## Working Paper Status
 
 This paper forms part of a wider research programme on fiduciary-epistemic governance and will be integrated into my forthcoming monograph _Beyond Epistemic Clientelism_. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project.
-
----
 
 ### Download Latest Edition
 
@@ -30,9 +26,7 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 ### Cite this work
 
-```
-Kahl, P. (2025). Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear (3rd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.30632.43528
-```
+Kahl, P. (2025). _Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear_ (3rd ed.). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event DOI: https://doi.org/10.13140/RG.2.2.16174.37449
 
 ### Publisher & Licence
 
