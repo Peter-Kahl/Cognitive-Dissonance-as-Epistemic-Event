@@ -4,7 +4,7 @@
 
 by Peter Kahl, 6 September 2025; 3rd edition 13 September 2025
 
-DOI: 10.13140/RG.2.2.16174.37449
+DOI: [10.13140/RG.2.2.16174.37449](https://doi.org/10.13140/RG.2.2.16174.37449)
 
 ![alt text](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/precipice.jpg?raw=true)
 
@@ -31,8 +31,8 @@ Kahl, P. (2025). _Cognitive Dissonance as Epistemic Event: Clientelism, Bounded 
 ### Publisher & Licence
 
 First published in Great Britain by Lex et Ratio Ltd 6 September 2025.\
-2nd edition published by Lex et Ratio Ltd 10 September 2025.\
-3rd edition published by Lex et Ratio Ltd 13 September 2025.
+v2 published by Lex et Ratio Ltd 10 September 2025.\
+v3 published by Lex et Ratio Ltd 13 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
