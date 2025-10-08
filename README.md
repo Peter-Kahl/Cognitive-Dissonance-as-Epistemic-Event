@@ -2,9 +2,9 @@
 
 ### Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear
 
-by Peter Kahl, 6 September 2025; 3rd edition 13 September 2025
+by Peter Kahl, 6 September 2025; v3: 2025-09-13
 
-DOI: [10.13140/RG.2.2.16174.37449](https://doi.org/10.13140/RG.2.2.16174.37449)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16174.37449-blue.svg)](https://doi.org/10.13140/RG.2.2.16174.37449)
 
 ![alt text](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/precipice.jpg?raw=true)
 
@@ -26,7 +26,7 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 ### Cite this work
 
-Kahl, P. (2025). _Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear_ (3rd ed.). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event DOI: https://doi.org/10.13140/RG.2.2.16174.37449
+Kahl, P. (2025). _Cognitive Dissonance as Epistemic Event: Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear_ (v3). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event DOI: https://doi.org/10.13140/RG.2.2.16174.37449
 
 ### Publisher & Licence
 
