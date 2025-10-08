@@ -18,7 +18,7 @@ cognitive dissonance; epistemic event; epistemic clientelism; epistemic injustic
 
 ## Working Paper Status
 
-This paper forms part of a wider research programme on fiduciary-epistemic governance and will be integrated into my forthcoming monograph _Beyond Epistemic Clientelism_. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project.
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ### Download Latest Edition
 
