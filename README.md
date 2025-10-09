@@ -2,9 +2,9 @@
 
 ### Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear
 
-by Peter Kahl, 6 September 2025; v3: 2025-09-13
+by Peter Kahl, 2025-09-06; v3: 2025-09-13
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16174.37449-blue.svg)](https://doi.org/10.13140/RG.2.2.16174.37449)
+[![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16174.37449-blue.svg)](https://doi.org/10.13140/RG.2.2.16174.37449) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A solitary figure stands at the edge of a rocky precipice, gazing into a vast, swirling void of darkness below. The sky burns with violent hues of orange and crimson, mingling with deep indigo clouds that seem to twist around a cosmic vortex. The scene conveys the tension between illumination and oblivion, knowledge and uncertainty.](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/precipice.jpg?raw=true)
 
@@ -30,9 +30,9 @@ Kahl, P. (2025). _Cognitive Dissonance as Epistemic Event: Clientelism, Bounded 
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd 6 September 2025.\
-v2 published by Lex et Ratio Ltd 10 September 2025.\
-v3 published by Lex et Ratio Ltd 13 September 2025.
+First published in Great Britain by Lex et Ratio Ltd, 2025-09-06.\
+v2 published by Lex et Ratio Ltd, 2025-09-10.\
+v3 published by Lex et Ratio Ltd, 2025-09-13.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
