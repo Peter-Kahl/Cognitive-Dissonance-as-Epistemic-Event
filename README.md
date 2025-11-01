@@ -2,9 +2,11 @@
 
 ### Clientelism, Bounded Freedom, and the Architecture of Epistemic Fear
 
+---
+
 by Peter Kahl, 2025-09-06; v3: 2025-09-13
 
-[![DOI](https://zenodo.org/badge/DOI/10.13140/RG.2.2.16174.37449.svg)](https://doi.org/10.13140/RG.2.2.16174.37449) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![DOI](https://zenodo.org/badge/DOI/10.13140/RG.2.2.16174.37449.svg)](https://doi.org/10.13140/RG.2.2.16174.37449) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A solitary figure stands at the edge of a rocky precipice, gazing into a vast, swirling void of darkness below. The sky burns with violent hues of orange and crimson, mingling with deep indigo clouds that seem to twist around a cosmic vortex. The scene conveys the tension between illumination and oblivion, knowledge and uncertainty.](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/precipice.jpg?raw=true)
 
@@ -22,7 +24,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/master/Kahl_P_Cognitive_Dissonance_as_Epistemic_Event_v3_2025-09-13.pdf)
+- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/master/Kahl_P_Cognitive_Dissonance_as_Epistemic_Event_v3_2025-09-13.pdf)
 
 ## Cite this work
 
@@ -30,10 +32,9 @@ Kahl, P. (2025). _Cognitive dissonance as epistemic event: Clientelism, bounded 
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd, 2025-09-06.\
-v2 published by Lex et Ratio Ltd, 2025-09-10.\
-v3 published by Lex et Ratio Ltd, 2025-09-13.
+v1 published in London by Lex et Ratio Ltd, 2025-09-06.\
+v2 published in London by Lex et Ratio Ltd, 2025-09-10.\
+v3 published in London by Lex et Ratio Ltd, 2025-09-13.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
