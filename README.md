@@ -18,13 +18,9 @@ This paper reconceptualises cognitive dissonance as an epistemic event: the affe
 
 cognitive dissonance, epistemic event, epistemic clientelism, epistemic injustice, epistemic pluralism, epistemic agency, epistemic fear, epistemic anxiety, fiduciary duties, fiduciary–epistemic scaffolds, bounded freedom, solitude and finitude, ontology, conformity, obedience, authoritarianism, deliberative democracy, institutional design, artificial intelligence, biotechnology, climate governance, knowledge governance
 
-## Working Paper Status
-
-This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
-
 ## Download
 
-- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/master/Kahl_P_Cognitive_Dissonance_as_Epistemic_Event_v3_2025-09-13.pdf)
+- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/master/Kahl_P_Cognitive_Dissonance_as_Epistemic_Event_v3_2025-09-13.pdf) ✅ _latest_
 
 ## Cite this work
 
